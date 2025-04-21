@@ -1,9 +1,5 @@
 <h1 align="center">📘 PYQ_Solutions_IITKGP</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lQXP9D5h5FZ3U0/giphy.gif" width="250" alt="studying cat"/>
-</p>
-
 ---
 
 Hey folks!  
